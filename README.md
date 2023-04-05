@@ -29,10 +29,10 @@ This contract has the following functions:
 
 ## Documentation:
 
-- constructor(address _seller, address payable _payer, uint256 _amount): The constructor function that sets the seller's address, payer's address, and payment amount.
-- function makePayment() external payable: Function that allows the payer to send payment to the contract and confirm the payment.
-- function cancelTransaction() external: Function that allows the seller to cancel the transaction and return the payment to the payer.
-- function withdraw() external: Function that allows the seller to withdraw the payment once it has been confirmed.
+- `constructor(address _seller, address payable _payer, uint256 _amount)`: The constructor function that sets the seller's address, payer's address, and payment amount.
+- `function makePayment() external payable`: Function that allows the payer to send payment to the contract and confirm the payment.
+- `function cancelTransaction() external`: Function that allows the seller to cancel the transaction and return the payment to the payer.
+- `function withdraw() external`: Function that allows the seller to withdraw the payment once it has been confirmed.
 
 ## Authors
 
