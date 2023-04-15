@@ -35,7 +35,7 @@ This contract has the following functions:
 - `function withdraw() external`: Function that allows the seller to withdraw the payment once it has been confirmed.
 
 ## PaymentGuaranteeWithMonitor Smart Contract
-The `PaymentGuaranteeWithMonitor`[PaymentGuaranteeWithMonitor](PaymentGuaranteeWithMonitor.sol) Smart Contract is a Solidity contract that extends the `PaymentGuarantee` contract to include a third-party monitor for overseeing transactions.
+The [PaymentGuaranteeWithMonitor](PaymentGuaranteeWithMonitor.sol) Smart Contract is a Solidity contract that extends the `PaymentGuarantee` contract to include a third-party monitor for overseeing transactions.
 This contract ensures secure transactions between two parties, with the monitor responsible for approving the transaction before the seller can withdraw the payment.
 
 ```bash
