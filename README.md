@@ -57,7 +57,7 @@ The `PaymentGuaranteeWithMonitor` smart contract provides the following function
 - `approveTransaction() external`: Function that allows the monitor to approve the transaction after payment has been made.
 - `cancelTransaction() external`: Function that allows the seller to cancel the transaction and return the payment to the payer if payment has not yet been made.
 - `withdraw() external`: Function that allows the seller to withdraw the payment once it has been approved by the monitor.
-- 
+
 ## Contributing
 I welcome contributions to the `PaymentGuarantee` project! If you'd like to contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request, and I'll review it as soon as possible.
 
