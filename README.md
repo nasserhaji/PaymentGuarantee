@@ -65,7 +65,7 @@ I welcome contributions to the `PaymentGuarantee` project! If you'd like to cont
 PaymentGuarantee is released under the MIT [LICENSE](LICENSE).
 
 ## Authors
-- [Mohammad Nasser Haji Hashemabad](https://github.com/nasserhaji/)
+- [Mohammad Nasser Haji Hashemabad](https://mohammadnasser.com)
 
 ## Contact
 If you have any questions or comments about PaymentGuarantee, feel free to reach out to me at [Email](mailto:info@mohammadnasser.com).
